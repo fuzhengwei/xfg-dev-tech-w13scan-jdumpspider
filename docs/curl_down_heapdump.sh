@@ -1,0 +1,1 @@
+wget http://localhost:8091/actuator/heapdump

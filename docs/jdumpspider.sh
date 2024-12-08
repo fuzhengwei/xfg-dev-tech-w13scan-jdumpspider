@@ -1,0 +1,1 @@
+java -jar JDumpSpider-1.1-SNAPSHOT-full.jar heapdump
